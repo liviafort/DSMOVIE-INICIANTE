@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #ddd;
+}
+header{
+    background-color: #B22222;
+    color: #fff;
+
+}
+a, a:hover{
+    color: unset;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
