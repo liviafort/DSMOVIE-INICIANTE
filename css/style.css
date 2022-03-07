@@ -1,15 +1,28 @@
+
 *{
+    margin: 0;
     box-sizing: border-box;
 }
 
-html{
+h1{
+    margin: 0;
+    font-style: oblique;
+}
+html, body{
     background-color: #ddd;
 }
+
 header{
-    background-color: #B22222;
+    background-color: #4B0082;
     color: #fff;
 
 }
+
+.dsmoviecontact img{
+    margin-right:10px;
+
+}
+
 a, a:hover{
     color: unset;
     text-decoration: none;
