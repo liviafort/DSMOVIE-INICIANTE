@@ -58,11 +58,12 @@ a, a:hover{
 }
 
 .dsmoviecard-description h3{
-    margin-bottom: 25px;
-    font-weight: 700px;
+
     font-size: 14px;
-    text-align: center;
+    font-weight: 700px;
+    margin-bottom: 25px;
 }
+
 
 .dsmoviebutton, .dsmoviebutton:hover{
     width: 180px;
