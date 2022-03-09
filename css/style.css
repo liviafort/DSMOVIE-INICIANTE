@@ -77,3 +77,8 @@ a, a:hover{
     justify-content: center;
     border-radius: 4px;
 }
+
+.dsmovieform-container{
+    padding: 40px 0px;
+    max-width: 480px;
+}
