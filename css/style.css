@@ -41,6 +41,10 @@ a, a:hover{
     width: 100%;
 }
 
+#dsmovielist{
+    padding: 40px 10px;
+}
+
 .dsmoviecard img{
     width: 100%;
     border-radius: 8px 8px 0 0;
@@ -54,14 +58,14 @@ a, a:hover{
     justify-content: space-between;
     background-color: white;
     border-radius: 0 0 8px 8px;
-    height: 220px;
+    height: 190px;
 }
 
 .dsmoviecard-description h3{
 
     font-size: 14px;
     font-weight: 700px;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 
