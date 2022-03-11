@@ -90,7 +90,7 @@ a, a:hover{
 }
 
 #dsmovielist{
-    padding: 40px 10px;
+    padding: 0px 10px;
 }
 
 .dsmoviecard img{
@@ -151,7 +151,7 @@ a, a:hover{
     max-width: 480px;
 }
 
-.dsmovie-form{
+.dsmovie-form, dsmovie{
     width: 100%;
 
 }
